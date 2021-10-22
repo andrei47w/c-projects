@@ -1,8 +1,0 @@
-CodeVault,Difference between arrays and pointers in C,4934,108,11,22,https://www.youtube.com/watch?v=iSZLE9qPN14
-CodeVault,Detecting memory leaks in Visual Studio,9547,186,6,33,https://www.youtube.com/watch?v=t1wqj6J6Vhs
-google1,title1,200,4,1,1,google.com
-2,2,99,100,0,0,2
-pres,title,0,2,2,0,1
-12,12,0,0,0,0,12
-pres3,title3,3000,333,3,3,https://www.google.com/search?q=3
-123,123,0,0,0,0,123
