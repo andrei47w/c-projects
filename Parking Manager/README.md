@@ -1,5 +1,5 @@
     Aplicatia nu valideaza toate input-urile considerand ca sunt corecte
-    Pretul pe ora si limitarile parcatii pot fi modificate in mainwindow.h
+    Pretul pe ora si limitarile parcarii pot fi modificate in mainwindow.h
 
 Repoository:
 Constructor-ul apeleaza functia repoFromFile() astfel memorand toate vehiculele
